@@ -1,0 +1,33 @@
+body {
+    color: rgb(89, 92, 94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+h1 {
+    font-size: 20px;
+}
+
+h3 {
+    text-align: right;
+}
+a {
+    color: #0A3761;
+}
+.black-border {    
+        background-color: #666;
+        color: #fff;
+        font-weight: bold;
+        padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+}
+.mailaddress {
+    color: #0A3761;
+}
+#green-background {
+    background-color: #49BDAC;
+    padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+}
